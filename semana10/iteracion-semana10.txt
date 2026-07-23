@@ -1,0 +1,20 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+
+Haría primero las dos tareas de mayor prioridad y que sean necesarias para que las demás funcionalidades puedan desarrollarse correctamente. Si una tarea depende de otra, comenzaría por la que sirve como base para evitar retrasos.
+
+2. ¿Por qué son las más importantes?
+
+Porque aportan el mayor valor al proyecto y permiten avanzar con el resto del trabajo. Además, resolver primero las tareas prioritarias reduce riesgos y facilita el desarrollo de las siguientes funcionalidades.
+
+3. ¿Qué significa para ti que una tarea esté “terminada”?
+
+Para mí, una tarea está terminada cuando cumple con los requisitos solicitados, funciona correctamente y puede integrarse al proyecto sin generar errores.
+
+4. Definición simple de “Terminado”
+
+Una tarea se considera terminada cuando:
+
+Funciona correctamente según lo solicitado.
+Fue probada y no presenta errores importantes.
+Quedó registrada en Git mediante un commit.
+La documentación o comentarios necesarios fueron actualizados.
